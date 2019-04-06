@@ -1,3 +1,2 @@
-The codes for the implementation of various functionalities of Embedded systems.
+Codes for the implementation of interrupts, timers, LCD, Watchdog Timer, Switches on the hardware board MSP430fr4133.
 
-1) Blinking of LED with the changed clock rate.
